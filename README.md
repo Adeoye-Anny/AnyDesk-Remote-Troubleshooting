@@ -22,9 +22,8 @@ I downloaded AnyDesk from the official website and installed it on both the supp
   * AnyDesk service was running
   * The device generated a unique AnyDesk address
   * Outbound and inbound connections were allowed
+    <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/8cc47238-9152-4154-89ca-b9466fb060b0" />
 
-📸 Screenshot to upload here:
-AnyDesk installed and open showing the device AnyDesk ID
 
 #### Step 2: Configuring AnyDesk for Remote Access
 On the client machine, I configured AnyDesk to allow remote connections by:
@@ -33,9 +32,8 @@ On the client machine, I configured AnyDesk to allow remote connections by:
   * Adjusting permission settings for keyboard, mouse, and file transfer
   * Verifying firewall rules did not block the connection
 This setup simulates a real user workstation that requires remote IT assistance.
+  <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/24720a68-52da-4282-8931-c070637c3f8c" />
 
-📸 Screenshot to upload here:
-AnyDesk security settings showing unattended access enabled
 
 #### Step 3: Establishing a Remote Connection
 From the support machine, I entered the client’s AnyDesk address and initiated a remote session.
@@ -47,8 +45,7 @@ I confirmed:
   * Stable connection quality
 This step mirrors how IT support staff remotely access employee systems for troubleshooting.
 
-📸 Screenshot to upload here:
-Active AnyDesk remote session connected to client device
+
 
 
 #### Step 4: Simulated User Support Scenarios
@@ -63,8 +60,7 @@ The client reported intermittent connection drops.
   * Restarted AnyDesk service
   * Re-established the remote session successfully
 
-📸 Screenshot to upload here:
-AnyDesk reconnecting or connection status panel
+
 
 ##### Scenario 2: Software Installation Assistance
 The client required help installing a third-party application.
@@ -76,8 +72,7 @@ The client required help installing a third-party application.
   * Confirmed application functionality
 This reflects real-world remote assistance for end users unfamiliar with software installation.
 
-📸 Screenshot to upload here:
-Software installation window during remote session
+
 
 
 #### Step 5: Security and Best Practices
@@ -86,6 +81,7 @@ During the lab, I followed standard IT security practices:
   * Avoided leaving permanent access enabled after support
   * Ensured user consent before remote control
   * Logged out and terminated sessions properly
+    <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/28507152-6fa8-4dd3-9e70-3b60234d9303" />
 
 #### Outcome & Skills Demonstrated
 Through this project, I demonstrated:
